@@ -1,0 +1,12 @@
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\bin\Debug\net6.0\SeriLogExceptionHandlingLib.deps.json
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\bin\Debug\net6.0\SeriLogExceptionHandlingLib.dll
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\bin\Debug\net6.0\SeriLogExceptionHandlingLib.pdb
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\SeriLogExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\SeriLogExceptionHandlingLib.AssemblyInfoInputs.cache
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\SeriLogExceptionHandlingLib.AssemblyInfo.cs
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\SeriLogExceptionHandlingLib.csproj.CoreCompileInputs.cache
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\SeriLogExceptionHandlingLib.dll
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\refint\SeriLogExceptionHandlingLib.dll
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\SeriLogExceptionHandlingLib.pdb
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\ref\SeriLogExceptionHandlingLib.dll
+E:\Saranya\SeriLogWebapp\SeriLogExceptionHandlingLib\obj\Debug\net6.0\SeriLogExceptionHandlingLib.csproj.AssemblyReference.cache

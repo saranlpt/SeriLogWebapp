@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Saranya\\SeriLogWebapp\\SeriLogExceptionHandlingLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C13BA2E0-0324-49AA-A4D6-BC06437DD2A3}|SeriLogExceptionHandlingLib.csproj|e:\\saranya\\serilogwebapp\\serilogexceptionhandlinglib\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13BA2E0-0324-49AA-A4D6-BC06437DD2A3}|SeriLogExceptionHandlingLib.csproj|solutionrelative:exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13BA2E0-0324-49AA-A4D6-BC06437DD2A3}|SeriLogExceptionHandlingLib.csproj|e:\\saranya\\serilogwebapp\\serilogexceptionhandlinglib\\serilogexceptionhandlinglib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C13BA2E0-0324-49AA-A4D6-BC06437DD2A3}|SeriLogExceptionHandlingLib.csproj|solutionrelative:serilogexceptionhandlinglib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13BA2E0-0324-49AA-A4D6-BC06437DD2A3}|SeriLogExceptionHandlingLib.csproj|e:\\saranya\\serilogwebapp\\serilogexceptionhandlinglib\\serilogexceptionhandlinglib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C13BA2E0-0324-49AA-A4D6-BC06437DD2A3}|SeriLogExceptionHandlingLib.csproj|solutionrelative:serilogexceptionhandlinglib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeriLogExceptionHandlingLib.csproj",
+              "DocumentMoniker": "E:\\Saranya\\SeriLogWebapp\\SeriLogExceptionHandlingLib\\SeriLogExceptionHandlingLib.csproj",
+              "RelativeDocumentMoniker": "SeriLogExceptionHandlingLib.csproj",
+              "ToolTip": "E:\\Saranya\\SeriLogWebapp\\SeriLogExceptionHandlingLib\\SeriLogExceptionHandlingLib.csproj",
+              "RelativeToolTip": "SeriLogExceptionHandlingLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T06:19:20.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\Saranya\\SeriLogWebapp\\SeriLogExceptionHandlingLib\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\Saranya\\SeriLogWebapp\\SeriLogExceptionHandlingLib\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:19:42.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeriLogExceptionHandlingLib",
+              "DocumentMoniker": "E:\\Saranya\\SeriLogWebapp\\SeriLogExceptionHandlingLib\\SeriLogExceptionHandlingLib.csproj",
+              "RelativeDocumentMoniker": "SeriLogExceptionHandlingLib.csproj",
+              "ToolTip": "E:\\Saranya\\SeriLogWebapp\\SeriLogExceptionHandlingLib\\SeriLogExceptionHandlingLib.csproj",
+              "RelativeToolTip": "SeriLogExceptionHandlingLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T05:41:57.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
